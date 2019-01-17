@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547749344 source:c:\users\rapl3\desktop\codeblocks\medic_pacient\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
